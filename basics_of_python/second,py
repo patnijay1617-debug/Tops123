@@ -1,0 +1,2 @@
+print("Good Morning","have a beautiful day","let's start day",sep="\t",end=" ")
+print("Hello\t\"World\"")
