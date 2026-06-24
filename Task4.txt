@@ -1,1 +1,7 @@
-
+Task 4 : Differences between MySQL and PostgreSQL
+1. MySQL is easier to learn and use, while PostgreSQL has more advanced features.
+2. MySQL is commonly used for web applications,while PostgreSQL is preferred for analytics and complex applications.
+3. MySQL is faster for simple queries, while PostgreSQL handels complex queries better.
+Example:
+MySQL - Facebook
+PostgreSQL - Instagram
